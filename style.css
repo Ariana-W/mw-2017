@@ -1,80 +1,60 @@
-
 *{
 
 box-sizing:border-box;
 }
 
-.introtext{
+body{
+  font-family: "Roboto";
+  margin:0;
+  padding: 0;
+}
+
+.hero{
+height: 100%;
+width: 100%;
+}
+
+.intro_text{
 color: #C3BFBF;
 font-size: 32px;
 text-align: center;
 }
 
-.gallery{
-  list-style-type: none;
-  margin: 0;
-  padding:0;
-  overflow: hidden;
-}
 
-.gallery li {
-  float: left;
-  margin: 10px 15px 10px 15px;
-}
-
-
-
-
-.coursegoals{
+.course_goals{
 color: #777777;
 font-size: 28px;
-text-transform: uppercase;
 }
 
 h1 {
 font-size: 92px;
-font-face: Roboto-Thin;
-color: #000080;
+font-weight: 100;
+color: #000000;
 }
 
 h3{
 color: #000080;
 }
 
-.box1{
-  margin: 50px;
-  padding: 10px;
-  background-color: #ffb3e6;
-  border: 1px;
-  border-style: solid;
-  border-color: #cc0088;
-  box-shadow: 10px 5px 5px green;
-  width: 225px;
-  height: 130px;
-  color: blue;
-}
 
-.box2{
+.css{
 
 
 }
 
-.box3{
+.sass{
 
 
 }
 
-.background{
-border: 1 px solid red;
-background-image: url('http://favim.com/orig/201108/29/adorable-aww-cute-daww-duck-Favim.com-132809.jpg');
-  width: 100%;
-  height: 500px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+.responsive_design{
+
 }
 
+.javascript{
 
-li:nth-child(2){
-  color: orange;
+}
+
+.version_control{
+
 }
