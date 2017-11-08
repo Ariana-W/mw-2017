@@ -30,7 +30,13 @@ h1 {
 font-size: 92px;
 font-weight: 100;
 color: #000000;
+  text-align: center;
+  position: absolute;
+  top: 17rem;
+  left: 30rem;
+  color: white;
 }
+
 
 h3{
 color: #000080;
