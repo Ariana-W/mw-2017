@@ -16,14 +16,24 @@ height: 6rem;
 height: 100%;
 width: 100%;
 }
+
+
 ul{
   list-style-type: none;
-  text-align: center;
-}
+  margin: 0;
+  padding:0;
 
-li a{
-    display: inline-flex;
-    text-decoration: none;
+}
+li{
+  float: right;
+  padding-right: 6rem;
+
+}
+ a{
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  text-transform:uppercase;
 }
 
 
