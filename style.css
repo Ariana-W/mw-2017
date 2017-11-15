@@ -30,11 +30,6 @@ width: 10rem;
 height: 6rem;
 }
 
-.hero{
-height: 100%;
-width: 100%;
-}
-
 
 ul{
   list-style-type: none;
@@ -59,11 +54,14 @@ li{
 color: #C3BFBF;
 font-size: 32px;
 text-align: center;
+Padding: 150px 0px 0px 77px;
+line: 56px (1.8);
 }
 
 
 .course_goals{
-color: #777777;
+Padding: 127px 0px 0px 0px ;
+Color: #777777;
 font-size: 28px;
 }
 
@@ -81,27 +79,4 @@ color: #000000;
 
 h3{
 color: #000080;
-}
-
-
-.css{
-
-
-}
-
-.sass{
-
-
-}
-
-.responsive_design{
-
-}
-
-.javascript{
-
-}
-
-.version_control{
-
 }
