@@ -5,7 +5,7 @@ body{
 }
 
 header{
-  width:1370x;
+  width:1348px;
   height:657px;
   background-image:url("hero.jpg");
   color: white;
@@ -13,6 +13,8 @@ header{
 }
 
 .navbar li a {
+top: 3rem;
+right: 5rem;
 color: white;
 font-weight: 100;
 }
