@@ -4,6 +4,12 @@ body{
   padding: 0;
 }
 
+header{
+  width:1370x;
+  height:657px;
+  background-image:url("hero.jpg");
+}
+
 .logo{
 position:absolute;
 top: 2rem;
