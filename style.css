@@ -1,3 +1,4 @@
+
 body{
   font-family: "Roboto";
   margin:0;
@@ -50,21 +51,6 @@ li{
 }
 
 
-.intro_text{
-color: #C3BFBF;
-font-size: 32px;
-text-align: center;
-Padding: 150px 0px 0px 77px;
-line: 56px (1.8);
-}
-
-
-.course_goals{
-Padding: 127px 0px 0px 0px ;
-Color: #777777;
-font-size: 28px;
-}
-
 h1 {
 font-size: 92px;
 font-weight: 100;
@@ -75,6 +61,23 @@ color: #000000;
   left: 28rem;
   color: white;
 }
+
+
+.intro_text{
+color: #C3BFBF;
+font-size: 32px;
+text-align: center;
+Padding: 150px 0px 90px 77px;
+}
+
+
+.course_goals{
+Padding: 135px 0px 69px 0px ;
+color:857F7F;
+font-size: 28px;
+text-align: center;
+}
+
 
 
 h3{
