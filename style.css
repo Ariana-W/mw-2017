@@ -71,15 +71,23 @@ Padding: 150px 0px 90px 77px;
 }
 
 
-.course_goals{
+.course_goals_title{
 Padding: 135px 0px 69px 0px ;
-color:857F7F;
+color: #857F7F; 100%;
 font-size: 28px;
+font-weight:400;
 text-align: center;
+*
+
 }
 
 
 
 h3{
 color: #000080;
+}
+
+.semantic_html{
+border: 2px solid green;
+
 }
