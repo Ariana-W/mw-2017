@@ -1,3 +1,8 @@
+$red: #ff3300;
+
+$blue: #0000ff;
+
+$title_grey: #857F7F 100%;
 
 body{
   font-family: "Roboto";
@@ -67,19 +72,49 @@ color: #000000;
 color: #C3BFBF;
 font-size: 32px;
 text-align: center;
-Padding: 150px 0px 90px 77px;
+padding: 150px 0px 90px 77px;
 }
 
 
-.course_goals{
-Padding: 135px 0px 69px 0px ;
-color:857F7F;
+.course_goals_title{
+padding: 135px 0px 69px 0px;
+color: $title_grey;
 font-size: 28px;
+font-weight:400;
 text-align: center;
 }
 
-
-
 h3{
 color: #000080;
+}
+
+.semantic_html{
+ border: 2px solid green;
+
+}
+
+.css{
+
+border: 2px solid pink;
+float: right;
+}
+
+.sass{
+border: 2px solid red;
+float: right;
+}
+
+.responsive_design{
+border: 2px solid blue;
+float: right;
+}
+
+.javascript{
+border: 2px solid yellow;
+float: right;
+}
+
+.version_control{
+border: 2px solid orange;
+float: right;
 }
