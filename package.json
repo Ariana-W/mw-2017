@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Ariana-W/mw-2017#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-minify-css": "^1.2.4",
     "gulp-notify": "^3.0.0",
