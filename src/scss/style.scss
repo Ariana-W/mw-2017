@@ -17,7 +17,18 @@ header{
   background-image:url("../images/hero.jpg");
   color: white;
   font-size: 18px;
+
+  .logo{
+  width: 235px;
+  height: 125px;
+  padding-top: 18px;
+  padding-right: 100px;
+  padding-bottom: 157px;
+  padding-left: 34px;
+  }
+
 }
+
 
 
 .navbar li a{
@@ -78,8 +89,9 @@ padding: 150px 0px 110px 77px;
 
 
 .course_goals_title{
-padding: 145px 0px 69px 0px;
+padding: 145px 0px 20px 0px;
 color: $title_grey;
+opacity: 100%;
 font-size: 28px;
 font-weight:400;
 text-align: center;
@@ -90,37 +102,19 @@ color: #000080;
 }
 
 .course_goal{
-  height: 200px;
-  width:  320px;
-
+  height: 300px;
+  width:  400px;
+  float: left;
+  margin: 0;
+  color: $title_grey;
+  font-size: 16px;
+  padding-left: 40px;
 }
 
-.goal_1{
-color: pink;
-
-
+h4{
+  color: #777777 100%;
+  opacity: 100%
 }
-
-.goal_2{
-
-}
-
-.goal_3{
-
-}
-
-.goal_4{
-
-}
-
-.goal_5{
-
-}
-
-.goal_6{
-
-}
-
 
 .meetcolearners{
   color: $title_grey;
