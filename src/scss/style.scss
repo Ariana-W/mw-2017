@@ -29,8 +29,6 @@ header{
 
 }
 
-
-
 .navbar li a{
 Top:35px;
 color: white;
@@ -83,19 +81,15 @@ color: #000000;
 .intro_text{
 color: #C3BFBF;
 font-size: 32px;
-text-align: center;
-padding: 150px 0px 130px 77px;
 font-face: Roboto-Light;
 }
 
 
 .course_goals_title{
-padding: 180px 0px 20px 0px;
 color: $title_grey;
 opacity: 100%;
 font-size: 28px;
 font-weight:400;
-text-align: center;
 }
 
 h3{
@@ -106,7 +100,7 @@ color: #000080;
   color: $title_grey;
   font-size: 16px;
   padding-left: 55px;
-  padding-right : 53px;:
+  padding-right : 53px;
   padding: top: 101px ;
   padding-bottom: 155px;
 }
@@ -119,17 +113,8 @@ h4{
 .meetcolearners{
   color: $title_grey;
   text-align: center;
-
 }
 
-.colearner{
-padding-top: 209px;
-padding-left: 84px;
-padding-right: 42px;
+.theColearners{
+
 }
-
-
-.instructor{
-    background:url("../../instructor.jpg");
-
-    }
