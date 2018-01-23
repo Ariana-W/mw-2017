@@ -2,7 +2,7 @@ $red: #ff3300;
 
 $blue: #0000ff;
 
-$title_grey: #857F7F;
+$grey: #777777 100%;
 
 
 body{
@@ -13,7 +13,7 @@ body{
 
 header{
   width:1347px;
-  height:657px;
+  height:660px;
   background-image:url("../images/hero.jpg");
   color: white;
   font-size: 18px;
@@ -78,6 +78,7 @@ color: #000000;
 }
 
 
+
 .intro_text{
 color: #C3BFBF;
 font-size: 32px;
@@ -86,35 +87,47 @@ font-face: Roboto-Light;
 
 
 .course_goals_title{
-color: $title_grey;
+color: grey;
 opacity: 100%;
 font-size: 28px;
-font-weight:400;
+line: 33px (1.2);
+margin-top:127px;
+margin-bottom: 69px;
+font-face:
 }
+
 
 h3{
 color: #000080;
 }
 
-.course_goal{
-  color: $title_grey;
+.row1{
+  color: grey;
+  opacity: 100%;
   font-size: 16px;
-  padding-left: 55px;
-  padding-right : 53px;
-  padding: top: 101px ;
-  padding-bottom: 155px;
+  line: 18px (1.1);
+  font-face: Roboto-Bold;
+}
+
+.row2{
+  color: grey;
+  font-size: 16px;
 }
 
 h4{
-  color: #777777 100%;
+  color: #grey;
   opacity: 100%
 }
 
-
 .meetcolearners{
-  color: $title_grey;
+  color: grey;
   text-align: center;
 }
+
+.theColearners{
+    margin-bottom: 135px;
+}
+
 
 .instructorText p{
 text-color: #ffffff;
